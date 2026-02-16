@@ -31,14 +31,15 @@ Project: *Building whole-body lipid metabolism models to study non-alcoholic fat
 ---
 
 ### 🧠 Methods & Expertise
-- Mathematical Modeling (ODEs, IDEs, DDEs, PDEs)
-- Genome-Scale Metabolic Modeling
-- Flux Analysis 
-- Network-based Models
+- Multi-Omics Integration
 - Large-Scale Biological Data Analysis
 - Database-to-Model Workflows with Rigorous Validation
 - Machine Learning & Deep Learning
-
+- Genome-Scale Metabolic Modeling
+- Flux Analysis 
+- Network-based Models
+- Mathematical Modeling (ODEs, IDEs, DDEs, PDEs)
+  
 ---
 
 ### 🤝 Collaboration
