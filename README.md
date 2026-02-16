@@ -6,11 +6,9 @@ While my PhD work centered on cancer, my core expertise lies in developing **gen
 ---
 
 ### 💼 Current Position
-**Senior Project Associate**
-
-*Computational and Mathematical Biology Centre*
-
-*Translational Health Science and Technology Institute*
+**Senior Project Associate**,
+*Computational and Mathematical Biology Centre*,
+*Translational Health Science and Technology Institute, India*
 
 Project: *Building whole-body lipid metabolism models to study non-alcoholic fatty liver disease (NAFLD) and developing a general-purpose web-based application*
 
