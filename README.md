@@ -6,7 +6,7 @@ While my PhD work centered on cancer, my core expertise lies in developing **gen
 ---
 
 ### 💼 Current Position
-**Senior Project Associate**,  
+**Senior Project Associate**    
 *Computational and Mathematical Biology Centre*,  
 *Translational Health Science and Technology Institute, India*
 
