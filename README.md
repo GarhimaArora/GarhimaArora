@@ -1,7 +1,7 @@
 ### 👨‍🔬 About
 I’m **Garhima Arora**, PhD in Life Sciences from **Jawaharlal Nehru University, India**. My doctoral research focused on integrating advanced mathematical and computational modeling with experimental biology to address key challenges in cancer biology, including metastasis, drug resistance, and metabolic reprogramming.
 
-While my PhD work centered on cancer, my core expertise lies in developing **generalizable mathematical and computational frameworks** to decipher disease pathogenesis across biological systems, not limited to cancer alone.
+While my PhD work centered on cancer, my core expertise lies in developing **generalizable computational and mathematical frameworks** to decipher disease pathogenesis across biological systems, not limited to cancer alone.
 
 ---
 
