@@ -67,7 +67,7 @@ I enjoy working in interdisciplinary environments and have experience collaborat
 ---
 
 ### 2024
-- **A mathematical model to study low-dose metronomic scheduling for chemotherapy**  
+- **A mathematical model to study low-dose metronomic scheduling for chemotherapy**\\
   **G Arora**, N Bairagi, S Chatterjee  
   *Mathematical Biosciences* 372, 109186
 
