@@ -6,8 +6,8 @@ While my PhD work centered on cancer, my core expertise lies in developing **gen
 ---
 
 ### 💼 Current Position
-**Senior Project Associate**,
-*Computational and Mathematical Biology Centre*,
+**Senior Project Associate**,  
+*Computational and Mathematical Biology Centre*,  
 *Translational Health Science and Technology Institute, India*
 
 Project: *Building whole-body lipid metabolism models to study non-alcoholic fatty liver disease (NAFLD) and developing a general-purpose web-based application*
@@ -47,9 +47,9 @@ I enjoy working in interdisciplinary environments and have experience collaborat
 ---
 
 ### 🔗 Professional Links
-- ORCID: 0009-0002-8112-455X
-- LinkedIn: www.linkedin.com/in/garhima-arora 
-- Google Scholar: https://scholar.google.com/citations?user=1IReMGQAAAAJ
+- **ORCID:** 0009-0002-8112-455X
+- **LinkedIn:** www.linkedin.com/in/garhima-arora 
+- **Google Scholar:** https://scholar.google.com/citations?user=1IReMGQAAAAJ
 
 ---
 
@@ -67,7 +67,7 @@ I enjoy working in interdisciplinary environments and have experience collaborat
 ---
 
 ### 2024
-- **A mathematical model to study low-dose metronomic scheduling for chemotherapy**\\
+- **A mathematical model to study low-dose metronomic scheduling for chemotherapy**  
   **G Arora**, N Bairagi, S Chatterjee  
   *Mathematical Biosciences* 372, 109186
 
@@ -78,19 +78,19 @@ I enjoy working in interdisciplinary environments and have experience collaborat
 ---
 
 ### 2023
-- **Targeting metabolic fluxes reverts metastatic transitions in ovarian cancer**
-  **G Arora**, M Banerjee, J Langthasa, R Bhat, S Chatterjee
-  *iScience, Cell Press* 26 (11)
+- **Targeting metabolic fluxes reverts metastatic transitions in ovarian cancer**  
+  **G Arora**, M Banerjee, J Langthasa, R Bhat, S Chatterjee  
+  *iScience* 26 (11)
 
 ---
 
 ### 2021
 - **Understanding doxorubicin associated calcium remodeling during triple-negative breast cancer treatment: an in silico study**  
-  **G Arora**, S Ghosh, S Chatterjee
+  **G Arora**, S Ghosh, S Chatterjee  
   *Exploration of Targeted Anti-tumor Therapy* 2 (2), 208
  
 ---
 
 ### 📫 Connect with Me
-- Email: garhima1995@gmail.com
+**Email:** garhima1995@gmail.com
   
