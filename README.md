@@ -6,18 +6,18 @@ While my PhD work centered on cancer, my core expertise lies in developing **gen
 ---
 
 ### 💼 Current Position
-**Senior Project Associate**
-*Computational and Mathematical Biology Centre*
-*Translational Health Science and Technology Institute*
+- **Senior Project Associate**
+- *Computational and Mathematical Biology Centre*
+- *Translational Health Science and Technology Institute*
 
 Project: *Building whole-body lipid metabolism models to study non-alcoholic fatty liver disease (NAFLD) and developing a general-purpose web-based application*
 
 ---
 
 ### 📚 Education
-**Ph.D. in Life Sciences** - Jawaharlal Nehru University, India (2025)
-**M.Sc. in Mathematics** - University of Delhi, India (2018)
-**B.Sc. in Mathematics** - University of Delhi, India (2016)
+- **Ph.D. in Life Sciences** - Jawaharlal Nehru University, India (2025)
+- **M.Sc. in Mathematics** - University of Delhi, India (2018)
+- **B.Sc. in Mathematics** - University of Delhi, India (2016)
 
 ---
 
